@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_8XQMkDGWEeip_5eukVMt_w" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_8XQMkTGWEeip_5eukVMt_w" comment="" name="versDataset_Header" prompt="versDataset_Header?" promptNeeded="false" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="_8XQMkjGWEeip_5eukVMt_w" comment="" name="versDataset_RowSeparator" prompt="versDataset_RowSeparator?" promptNeeded="false" type="id_String" value="&quot;\n&quot;"/>
+  <contextParameter xmi:id="_8XQMkzGWEeip_5eukVMt_w" comment="" name="versDataset_Encoding" prompt="versDataset_Encoding?" promptNeeded="false" type="id_String" value="UTF-8"/>
+  <contextParameter xmi:id="_8XQMlDGWEeip_5eukVMt_w" comment="" name="versDataset_FieldSeparator" prompt="versDataset_FieldSeparator?" promptNeeded="false" type="id_String" value="&quot;;&quot;"/>
+  <contextParameter xmi:id="_8XQMlTGWEeip_5eukVMt_w" comment="" name="versDataset_File" prompt="versDataset_File?" promptNeeded="false" type="id_File" value="C:/fichierSortie/resultats_lang.csv"/>
+</talendfile:ContextType>

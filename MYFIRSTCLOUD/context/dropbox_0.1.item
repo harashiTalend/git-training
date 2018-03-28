@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_W6ChQDDzEeiLc6K8K3hdrA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_W6ChQTDzEeiLc6K8K3hdrA" comment="" name="dropbox_File" prompt="dropbox_File?" promptNeeded="false" type="id_File" value="C:/fichierSortie/resultats_lang.csv"/>
+  <contextParameter xmi:id="_W6ChQjDzEeiLc6K8K3hdrA" comment="" name="dropbox_RowSeparator" prompt="dropbox_RowSeparator?" promptNeeded="false" type="id_String" value="&quot;\n&quot;"/>
+  <contextParameter xmi:id="_W6ChQzDzEeiLc6K8K3hdrA" comment="" name="dropbox_FieldSeparator" prompt="dropbox_FieldSeparator?" promptNeeded="false" type="id_String" value="&quot;;&quot;"/>
+  <contextParameter xmi:id="_W6ChRDDzEeiLc6K8K3hdrA" comment="" name="dropbox_Encoding" prompt="dropbox_Encoding?" promptNeeded="false" type="id_String" value="UTF-8"/>
+</talendfile:ContextType>

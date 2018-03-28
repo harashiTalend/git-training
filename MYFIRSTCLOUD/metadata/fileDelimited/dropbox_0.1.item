@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_oZXe4DDzEeiLc6K8K3hdrA" name="dropbox" dataPackage="_oZXe4TDzEeiLc6K8K3hdrA" ContextMode="true" ContextId="_W5fHoDDzEeiLc6K8K3hdrA" contextName="Default" Server="Localhost 127.0.0.1" FilePath="context.dropbox_File" Format="WINDOWS" Encoding="context.dropbox_Encoding" FieldSeparatorValue="context.dropbox_FieldSeparator" RowSeparatorValue="context.dropbox_RowSeparator" FirstLineCaption="true" EscapeType="CSV" CsvOption="true" FieldSeparatorType="Custom UTF8"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_oZXe4TDzEeiLc6K8K3hdrA" name="default" dataManager="_oZXe4DDzEeiLc6K8K3hdrA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_oZXe4jDzEeiLc6K8K3hdrA" id="_Qj8h4DDzEeiLc6K8K3hdrA" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_oZXe4zDzEeiLc6K8K3hdrA" label="id" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_oZXe5DDzEeiLc6K8K3hdrA" label="post" length="29" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_oZXe5TDzEeiLc6K8K3hdrA" label="lang" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_oZXe5jDzEeiLc6K8K3hdrA" label="proba" length="10" precision="9" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
